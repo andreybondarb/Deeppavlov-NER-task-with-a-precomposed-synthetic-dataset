@@ -1,4 +1,5 @@
 ### Deeppavlov NER task with a precomposed synthetic dataset.
-First notebook - generating synthetic dataset for named entity recognition task.
 
-Second notebook - training the Deeppavlov BERT neural network on a precomposed synthetic dataset in google colab.
+The first notebook - generating synthetic dataset for named entity recognition task.
+
+The second notebook - training the Deeppavlov BERT neural network on a precomposed synthetic dataset in google colab.
